@@ -1,4 +1,6 @@
-###Ingredientes
+# Lasanha Integral com Molho Branco de Cogumelos
+
+### Ingredientes
 
 **Recheio e Molho**
 
@@ -25,7 +27,7 @@ meia colher (sopa) de sal
 
 - 2 colheres (sopa) de queijo parmesão ralado grosso
 
-###Modo de preparo
+### Modo de preparo
 
 **Recheio e Molho**
 
